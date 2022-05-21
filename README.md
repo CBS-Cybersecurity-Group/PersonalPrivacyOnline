@@ -38,11 +38,11 @@ Each module contains more or less the following standard structure.
 * A pre-recorded video lecture (e.g. M1_01_TrollAttack.mp4)
 * Slides for students (e.g. M1_01_TrollAttackS.pdf)
 * Slides for teachers with notes (M1_01_TrollAttackN.pdf)
-* Case study/note for students (e.g. M1_TrollAttackStudentMaterial.pdf)
+* Case study/note for students (M1_TrollAttackStudentMaterial.pdf)
 * Case study/note for teachers (M1_TrollAttackTeacherMaterial.pdf)
 * A recommended reading list (M1_ReadingList.pdf)
 
-
+For the case studies and tutorials we also include Danish translations. Those files would end with _DK. E.g. M1_TrollAttackStudentMaterial_DK.pdf
 
 The following are the list of individual modules with overview and table of contents.
 
